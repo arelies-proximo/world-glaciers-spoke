@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_app">
+    <sys_app action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <can_edit_in_studio>true</can_edit_in_studio>
+        <enforce_license>none</enforce_license>
+        <guided_setup_guid/>
+        <hide_on_ui>false</hide_on_ui>
+        <ide_created>DS</ide_created>
+        <installed_as_dependency>false</installed_as_dependency>
+        <js_level>es_latest</js_level>
+        <licensable>true</licensable>
+        <license/>
+        <license_category>none</license_category>
+        <license_definition/>
+        <license_model>none</license_model>
+        <logo>e5eaf1f1974242d0b55ffcd0f053af7e</logo>
+        <menu/>
+        <name>World Glaciers Spoke</name>
+        <package_json/>
+        <private>false</private>
+        <restrict_table_access>false</restrict_table_access>
+        <runtime_access_tracking>permissive</runtime_access_tracking>
+        <scope>x_1322279_world_gl</scope>
+        <scoped_administration>false</scoped_administration>
+        <short_description>Retrieve glacier information using the World Glaciers web service</short_description>
+        <source>x_1322279_world_gl</source>
+        <store_correlation_id/>
+        <store_url/>
+        <subscription_entitlement/>
+        <sys_class_name>sys_app</sys_class_name>
+        <sys_code/>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 09:59:34</sys_created_on>
+        <sys_id>ddeab5f1974242d0b55ffcd0f053af9f</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-09 09:59:35</sys_updated_on>
+        <template/>
+        <trackable>true</trackable>
+        <uninstall_blocked>false</uninstall_blocked>
+        <user_role/>
+        <vendor/>
+        <vendor_prefix/>
+        <version>1.0.0</version>
+    </sys_app>
+    <sys_translated_text action="delete_multiple" query="documentkey=ddeab5f1974242d0b55ffcd0f053af9f"/>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color/>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>galcier icon images.png</file_name>
+        <hash>53525b6ec8311b8b5b1fb7e86918ee9d72d154d562eb283614d3b7ed15771d5a</hash>
+        <image_height>159</image_height>
+        <image_width>159</image_width>
+        <size_bytes>4055</size_bytes>
+        <size_compressed>4078</size_compressed>
+        <state>available</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 09:59:35</sys_created_on>
+        <sys_id>e5eaf1f1974242d0b55ffcd0f053af7e</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-09 09:59:35</sys_updated_on>
+        <table_name>sys_app</table_name>
+        <table_sys_id>ddeab5f1974242d0b55ffcd0f053af9f</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAA/w==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="galcier icon images.png" sys_id="e5eaf1f1974242d0b55ffcd0f053af7e">e5eaf1f1974242d0b55ffcd0f053af7e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 09:59:35</sys_created_on>
+        <sys_id>29eaf1f1974242d0b55ffcd0f053af7e</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>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</data>
+        <length>5424</length>
+        <position>1</position>
+        <sys_attachment display_value="galcier icon images.png" sys_id="e5eaf1f1974242d0b55ffcd0f053af7e">e5eaf1f1974242d0b55ffcd0f053af7e</sys_attachment>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-09 09:59:35</sys_created_on>
+        <sys_id>a9eaf1f1974242d0b55ffcd0f053af7e</sys_id>
+    </sys_attachment_doc>
+</record_update>
